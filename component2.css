@@ -1,0 +1,75 @@
+.image-8-icon,
+.item {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.image-8-icon {
+  top: 0;
+  height: 1024px;
+  object-fit: cover;
+}
+.item {
+  top: 792px;
+  background-color: var(--color-gray);
+  height: 232px;
+  cursor: pointer;
+}
+.b1,
+.div10,
+.div9 {
+  position: absolute;
+  top: 814px;
+  left: 29px;
+}
+.div10,
+.div9 {
+  top: 884px;
+  font-weight: 500;
+}
+.div10 {
+  top: 965px;
+  left: 1338px;
+}
+.group-child3 {
+  top: 0;
+  background-color: var(--color-whitesmoke);
+  height: 69px;
+}
+.div11,
+.group-child3,
+.group-wrapper,
+.inner1 {
+  position: absolute;
+  left: 0;
+  width: 120px;
+}
+.div11 {
+  top: 7px;
+  font-weight: 600;
+  display: inline-block;
+  height: 47px;
+}
+.group-wrapper,
+.inner1 {
+  top: 0;
+  height: 69px;
+}
+.inner1 {
+  top: 32px;
+  left: 1278px;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.div8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

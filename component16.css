@@ -1,0 +1,47 @@
+.child29,
+.image-8-icon16 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.image-8-icon16 {
+  top: 0;
+  height: 1024px;
+  object-fit: cover;
+}
+.child29 {
+  top: 792px;
+  background-color: var(--color-gray);
+  height: 232px;
+  cursor: pointer;
+}
+.child30 {
+  position: absolute;
+  top: 808px;
+  left: 76px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.div71,
+.div72 {
+  position: absolute;
+  top: 884px;
+  left: 29px;
+  font-weight: 500;
+}
+.div72 {
+  top: 965px;
+  left: 1338px;
+}
+.div70 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

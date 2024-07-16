@@ -1,0 +1,78 @@
+.i3 {
+  position: absolute;
+  top: 49px;
+  left: 53px;
+  font-weight: 900;
+}
+.p {
+  margin: 0;
+}
+.div7 {
+  position: absolute;
+  top: 203px;
+  left: 53px;
+  font-size: var(--font-size-36xl);
+  font-weight: 100;
+  display: inline-block;
+  width: 1215px;
+  height: 67px;
+}
+.image-5-icon {
+  position: absolute;
+  top: 455px;
+  left: -26px;
+  width: 480px;
+  height: 593px;
+  object-fit: cover;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcoral);
+  width: 163px;
+  height: 69px;
+}
+.back2 {
+  position: absolute;
+  top: 7px;
+  left: 23.5px;
+  font-weight: 600;
+  display: inline-block;
+  width: 116px;
+  height: 47.4px;
+}
+.group-div,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 163px;
+  height: 69px;
+}
+.group-div {
+  top: 38px;
+  left: 1227px;
+  cursor: pointer;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.image-7-icon {
+  position: absolute;
+  top: 142px;
+  left: 935px;
+  width: 455px;
+  height: 872px;
+  object-fit: cover;
+}
+.div6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

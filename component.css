@@ -1,0 +1,85 @@
+.image-2-icon {
+  position: absolute;
+  top: 240px;
+  left: 686px;
+  width: 754px;
+  height: 802px;
+  object-fit: cover;
+}
+.div3,
+.div5,
+.i2 {
+  position: absolute;
+  left: 58px;
+}
+.i2 {
+  top: 49px;
+  font-size: var(--font-size-77xl);
+  font-weight: 900;
+}
+.div3,
+.div5 {
+  top: 207px;
+  font-weight: 100;
+  display: inline-block;
+  width: 1215px;
+  height: 67px;
+}
+.div5 {
+  top: 881px;
+  left: 267px;
+  font-size: 32px;
+  width: 211px;
+  height: 29px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcoral);
+  width: 163px;
+  height: 69px;
+}
+.back {
+  position: absolute;
+  top: 7px;
+  left: 23.5px;
+  font-weight: 600;
+  display: inline-block;
+  width: 116px;
+  height: 47.4px;
+}
+.inner,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 163px;
+  height: 69px;
+}
+.inner {
+  top: 38px;
+  left: 1230px;
+  cursor: pointer;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.image-6-icon {
+  position: absolute;
+  top: 723px;
+  left: 22px;
+  width: 215px;
+  height: 301px;
+  object-fit: contain;
+}
+.div2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

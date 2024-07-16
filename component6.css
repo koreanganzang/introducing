@@ -1,0 +1,98 @@
+.image-8-icon4,
+.image-9-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.image-9-icon3 {
+  top: 21px;
+  left: 286px;
+  width: 1258px;
+  height: 1317px;
+}
+.div25,
+.group-child7 {
+  position: absolute;
+  left: 0;
+  width: 120px;
+}
+.group-child7 {
+  top: 0;
+  background-color: var(--color-whitesmoke);
+  height: 69px;
+}
+.div25 {
+  top: 7px;
+  font-weight: 600;
+  display: inline-block;
+  height: 47px;
+}
+.group-wrapper2 {
+  top: 0;
+  left: 0;
+  width: 120px;
+  height: 69px;
+}
+.child4,
+.group-wrapper2,
+.inner5 {
+  position: absolute;
+}
+.inner5 {
+  top: 32px;
+  left: 1278px;
+  width: 120px;
+  height: 69px;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.child4 {
+  top: 792px;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 232px;
+  cursor: pointer;
+}
+.b5,
+.child5 {
+  position: absolute;
+  top: 814px;
+  left: 29px;
+}
+.child5 {
+  top: 808px;
+  left: 76px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.p5 {
+  margin: 0;
+}
+.div26,
+.div27 {
+  position: absolute;
+  top: 884px;
+  left: 29px;
+  font-weight: 500;
+}
+.div27 {
+  top: 965px;
+  left: 1338px;
+}
+.div24 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

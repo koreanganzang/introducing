@@ -1,0 +1,129 @@
+.image-8-icon17,
+.image-9-icon15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.image-9-icon15 {
+  top: 21px;
+  left: 286px;
+  width: 1258px;
+  height: 1317px;
+}
+.group-child17 {
+  top: 0;
+  background-color: var(--color-whitesmoke);
+  height: 69px;
+}
+.div74,
+.group-child17,
+.group-wrapper12 {
+  position: absolute;
+  left: 0;
+  width: 120px;
+}
+.div74 {
+  top: 7px;
+  font-weight: 600;
+  display: inline-block;
+  height: 47px;
+}
+.group-wrapper12 {
+  top: 0;
+  height: 69px;
+}
+.inner15 {
+  top: 32px;
+  left: 1278px;
+  width: 120px;
+  height: 69px;
+  font-size: var(--font-size-29xl);
+}
+.b17,
+.child31,
+.inner15 {
+  position: absolute;
+}
+.child31 {
+  top: 792px;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 232px;
+}
+.b17 {
+  top: 814px;
+  left: 29px;
+  color: var(--color-white);
+  text-align: left;
+}
+.child32 {
+  top: 808px;
+  left: 76px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.child32,
+.child33,
+.div75 {
+  position: absolute;
+}
+.div75 {
+  top: 965px;
+  left: 1338px;
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: left;
+}
+.child33 {
+  top: 845px;
+  left: 281px;
+  background-color: var(--color-white);
+  width: 308px;
+  height: 126px;
+}
+.div76,
+.group-child18 {
+  position: absolute;
+  left: 0;
+  width: 308px;
+}
+.group-child18 {
+  top: 0;
+  background-color: var(--color-white);
+  height: 126px;
+}
+.div76 {
+  top: 29px;
+  font-weight: 100;
+  display: inline-block;
+  height: 67px;
+}
+.rectangle-parent17,
+.rectangle-parent18 {
+  position: absolute;
+  top: 845px;
+  left: 281px;
+  width: 308px;
+  height: 126px;
+  cursor: pointer;
+  font-size: var(--font-size-36xl);
+}
+.rectangle-parent18 {
+  left: 936px;
+}
+.div73 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
