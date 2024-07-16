@@ -1,5 +1,5 @@
-.image-8-icon13,
-.image-9-icon12 {
+.image-8-icon11,
+.image-9-icon10 {
   position: absolute;
   top: 0;
   left: 0;
@@ -7,7 +7,7 @@
   height: 1024px;
   object-fit: cover;
 }
-.image-9-icon12 {
+.image-9-icon10 {
   top: 21px;
   left: 286px;
   width: 1258px;
@@ -18,7 +18,7 @@
   background-color: var(--color-whitesmoke);
   height: 69px;
 }
-.div59,
+.div53,
 .group-child14,
 .group-wrapper9,
 .inner12 {
@@ -26,7 +26,7 @@
   left: 0;
   width: 120px;
 }
-.div59 {
+.div53 {
   top: 7px;
   font-weight: 600;
   display: inline-block;
@@ -44,7 +44,7 @@
   font-size: var(--font-size-29xl);
   color: var(--color-black);
 }
-.child22,
+.child18,
 .group-icon {
   position: absolute;
   top: 187px;
@@ -52,7 +52,7 @@
   width: 93px;
   height: 23px;
 }
-.child22 {
+.child18 {
   top: 792px;
   left: 0;
   background-color: var(--color-gray);
@@ -60,31 +60,31 @@
   height: 232px;
   cursor: pointer;
 }
-.b14,
-.child23 {
+.b12,
+.child19 {
   position: absolute;
   top: 814px;
   left: 29px;
 }
-.child23 {
+.child19 {
   top: 808px;
   left: 76px;
   width: 100px;
   height: 100px;
   overflow: hidden;
 }
-.div60,
-.div61 {
+.div54,
+.div55 {
   position: absolute;
   top: 884px;
   left: 29px;
   font-weight: 500;
 }
-.div61 {
+.div55 {
   top: 965px;
   left: 1338px;
 }
-.div58 {
+.div52 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);

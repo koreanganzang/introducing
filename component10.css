@@ -22,47 +22,35 @@
   height: 232px;
 }
 .b9,
-.child14 {
+.child13 {
   position: absolute;
   top: 814px;
   left: 29px;
 }
-.child14 {
+.child13 {
   top: 808px;
   left: 76px;
   width: 100px;
   height: 100px;
   overflow: hidden;
 }
+.div41,
 .div42 {
-  top: 884px;
+  position: absolute;
+  top: 893px;
   left: 29px;
   font-weight: 500;
 }
-.div41,
-.div42,
-.div43 {
-  position: absolute;
-}
-.div43 {
+.div42 {
   top: 965px;
   left: 1338px;
-  font-weight: 500;
-}
-.div41 {
-  top: 0;
-  left: 0;
-  background-color: var(--color-white);
-  width: 1440px;
-  height: 1024px;
-  overflow: hidden;
 }
 .group-child11 {
   top: 0;
   background-color: var(--color-whitesmoke);
   height: 69px;
 }
-.div49,
+.div43,
 .group-child11,
 .group-wrapper6,
 .inner9 {
@@ -70,7 +58,7 @@
   left: 0;
   width: 120px;
 }
-.div49 {
+.div43 {
   top: 7px;
   font-weight: 600;
   display: inline-block;

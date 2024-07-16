@@ -1,21 +1,21 @@
-.child29,
-.image-8-icon16 {
+.child25,
+.image-8-icon14 {
   position: absolute;
   left: 0;
   width: 1440px;
 }
-.image-8-icon16 {
+.image-8-icon14 {
   top: 0;
   height: 1024px;
   object-fit: cover;
 }
-.child29 {
+.child25 {
   top: 792px;
   background-color: var(--color-gray);
   height: 232px;
   cursor: pointer;
 }
-.child30 {
+.child26 {
   position: absolute;
   top: 808px;
   left: 76px;
@@ -23,18 +23,18 @@
   height: 100px;
   overflow: hidden;
 }
-.div71,
-.div72 {
+.div65,
+.div66 {
   position: absolute;
   top: 884px;
   left: 29px;
   font-weight: 500;
 }
-.div72 {
+.div66 {
   top: 965px;
   left: 1338px;
 }
-.div70 {
+.div64 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);

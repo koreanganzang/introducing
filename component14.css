@@ -1,5 +1,5 @@
-.image-8-icon14,
-.image-9-icon13 {
+.image-8-icon12,
+.image-9-icon11 {
   position: absolute;
   top: 0;
   left: 0;
@@ -7,7 +7,7 @@
   height: 1024px;
   object-fit: cover;
 }
-.image-9-icon13 {
+.image-9-icon11 {
   top: 21px;
   left: 286px;
   width: 1258px;
@@ -18,7 +18,7 @@
   background-color: var(--color-whitesmoke);
   height: 69px;
 }
-.div63,
+.div57,
 .group-child15,
 .group-wrapper10,
 .inner13 {
@@ -26,7 +26,7 @@
   left: 0;
   width: 120px;
 }
-.div63 {
+.div57 {
   top: 7px;
   font-weight: 600;
   display: inline-block;
@@ -44,7 +44,7 @@
   font-size: var(--font-size-29xl);
   color: var(--color-black);
 }
-.child24 {
+.child20 {
   position: absolute;
   top: 792px;
   left: 0;
@@ -53,31 +53,31 @@
   height: 232px;
   cursor: pointer;
 }
-.b15,
-.child25 {
+.b13,
+.child21 {
   position: absolute;
   top: 814px;
   left: 29px;
 }
-.child25 {
+.child21 {
   top: 808px;
   left: 76px;
   width: 100px;
   height: 100px;
   overflow: hidden;
 }
-.div64,
-.div65 {
+.div58,
+.div59 {
   position: absolute;
   top: 884px;
   left: 29px;
   font-weight: 500;
 }
-.div65 {
+.div59 {
   top: 965px;
   left: 1338px;
 }
-.div62 {
+.div56 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);
